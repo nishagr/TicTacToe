@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="reset">Next Game</string>
+    <string name="restart">Restart</string>
+    <string name="player1">Player \'X\': 0</string>
+    <string name="player2">Player \'O\': 0</string>
+    <string name="score">Scores</string>
+</resources>
